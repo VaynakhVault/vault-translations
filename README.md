@@ -6,3 +6,4 @@ Currently supported languages:
 - English ✔️
 - French ✔️
 - Arabic ✔️
+- Chechen ✔️
